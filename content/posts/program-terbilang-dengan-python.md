@@ -2,9 +2,7 @@
 title: "Program Terbilang Dengan Python"
 date: 2015-08-22T14:04:16+07:00
 description: "Membuat program terbilang bahasa Indonesia menggunakan Python"
-tags:
-- code
-- python
+tags: ['code', 'python']
 ---
 
 Ada kalanya di dalam program kita membutuhkan sebuah fungsi untuk
