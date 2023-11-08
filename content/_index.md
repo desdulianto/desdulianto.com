@@ -1,4 +1,4 @@
 ---
 title: "Belajar IT & Pemrograman"
 ---
-Seorang *programmer*, bekerja dari rumah.
+Seorang professional IT, bekerja dari rumah.
