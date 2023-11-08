@@ -4,7 +4,7 @@ date: 2015-08-24T14:04:16+07:00
 description: "Tip untuk menghapus malicious code pada halaman web menggunakan CLI"
 tags: ['code', 'linux', unix', 'text', 'shell', 'sysadmin']
 ---
-Salah satu masalah keamanan pada web adalah halaman web disusupi dengan malicious code. Dengan mengunjungi web yang disusupi malicious code, perangkat user dapat terjangkit malware ataupun masalah keamanan lainnya. 
+Salah satu masalah keamanan pada web adalah halaman web disusupi dengan malicious code. Dengan mengunjungi web yang disusupi malicious code, perangkat user dapat terjangkit malware ataupun masalah keamanan lainnya.
 
 Contohnya pada hari ini saya mendapatkan masalah ada website yang terkena
 *code injection* yang menambahkan script pada halaman-halaman website tersebut
@@ -30,7 +30,7 @@ Semua tool tersebut akan dikaitkan dengan menggunakan *pipe*, salah satu
 tool yang sangat berguna untuk pekerjaan pada *command line*
 
 Pertama tampilkan file yang akan diproses:
-    
+
     find -type f -print0
 
 `-type f` untuk mencari object berjenis file (gunakan d untuk cari directory)
