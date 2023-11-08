@@ -63,3 +63,9 @@ buildFuture = false
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[permalinks]
+  [permalinks.page]
+    posts = '/posts/:year/:month/:slug'
+  [permalinks.section]
+    posts = '/posts/'
