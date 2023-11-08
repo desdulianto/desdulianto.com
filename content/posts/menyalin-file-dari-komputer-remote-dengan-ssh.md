@@ -2,7 +2,7 @@
 title: "Menyalin File Dari Komputer Remote Dengan ssh"
 date: 2015-12-12T00:00:00+07:00
 description: "Menyalin file dari komputer remote menggunakan ssh"
-tags: ['shell', 'unix', 'linux', 'sysadmin']
+tags: ['shell', 'unix', 'linux', 'sysadmin', 'network']
 ---
 Menyalin file dari komputer remote membutuhkan waktu yang lama, terutama apabila jumlah file yang disalin banyak dan berukuran kecil. Untuk meng-efisienkan proses penyalinan file, dapat digunakan perintah `tar` yang dijalankan melalui `ssh`.
 
