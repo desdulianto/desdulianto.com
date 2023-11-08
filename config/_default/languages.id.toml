@@ -1,0 +1,25 @@
+languageCode = "id"
+languageName = "Bahasa Indonesia"
+weight = 1
+title = "Desdulianto"
+
+[params]
+  displayName = "ID"
+  isoCode = "id"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Desdulianto"
+
+[author]
+  name = "Desdulianto"
+  image = "img/desdulianto.jpg"
+  headline = "Coding, Networking, Living."
+  bio = "Seorang programmer, bekerja dari rumah"
+  links = [
+    { email = "mailto:desdulianto@gmail.com" },
+    { link = "https://www.desdulianto.com" },
+    { github = "https://github.com/desdulianto" },
+    { gitlab = "https://gitlab.com/desdulianto" },
+    { linkedin = "https://www.linkedin.com/in/desdulianto/" },
+    { telegram = "https://t.me/desdulianto" }
+  ]
