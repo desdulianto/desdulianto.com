@@ -17,7 +17,6 @@ title = "Desdulianto"
   bio = "Seorang programmer, bekerja dari rumah"
   links = [
     { email = "mailto:desdulianto@gmail.com" },
-    { link = "https://www.desdulianto.com" },
     { github = "https://github.com/desdulianto" },
     { gitlab = "https://gitlab.com/desdulianto" },
     { linkedin = "https://www.linkedin.com/in/desdulianto/" },
