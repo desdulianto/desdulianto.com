@@ -8,3 +8,4 @@ description: Materi presentasi dan contoh code untuk kuliah Pemrograman Web Deng
 Materi kuliah pemrograman web dengan PHP.
 
 1. [Intro](/slides/pemrograman-web-php/00-intro.html)
+2. [Struktur Bahasa](/slides/pemrograman-web-php/01-struktur-bahasa.html)

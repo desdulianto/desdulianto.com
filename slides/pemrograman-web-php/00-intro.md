@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: gaia
-footer: 'Pemrograman Web Dengan PHP - Desdulianto'
+footer: 'Pemrograman Web Dengan PHP - Intro - Desdulianto'
 paginate: true
 ---
 <!-- _paginate: skip -->
