@@ -20,6 +20,11 @@
   pageRef = "kuliah"
   weight = 20
 
+[[main]]
+  name = "Tentang"
+  pageRef = "about"
+  weight = 30
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
@@ -63,10 +68,10 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
 
 # [[footer]]
 #   name = "Categories"
