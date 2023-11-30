@@ -1,0 +1,10 @@
+@startuml HTTP Request and Response
+WebClient -> WebServer: HTTP Request 1
+WebServer -> WebClient: HTTP Response 1
+
+WebClient -> WebServer: HTTP Request 2
+WebServer -> WebClient: HTTP Response 2
+
+WebClient -> WebServer: HTTP Request 3
+WebServer -> WebClient: HTTP Response 3
+@enduml

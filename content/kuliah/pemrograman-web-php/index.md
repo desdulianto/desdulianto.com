@@ -11,3 +11,4 @@ Materi kuliah pemrograman web dengan PHP.
 2. [Struktur Bahasa](/slides/pemrograman-web-php/01-struktur-bahasa.html)
 3. [Struktur Bahasa Lanjutan](/slides/pemrograman-web-php/02-struktur-bahasa-lanjutan.html)
 4. [Object Oriented Programming](/slides/pemrograman-web-php/03-object-oriented-programming.html)
+5. [PHP Web](/slides/pemrograman-web-php/04-php-web.html)
