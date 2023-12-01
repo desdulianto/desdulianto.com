@@ -86,6 +86,17 @@ Content-Type: text/html
 
 ---
 
+#### HTTP Response Status Code
+
+* Salah satu informasi penting yang dikirim pada HTTP Response Header adalah status code
+* Code ini digunakan oleh web client untuk menentukan proses apa yang perlu dilakukan terhadap response
+  * 200 OK - Request berhasil, tampilkan body response jika ada
+  * 404 Not Found - URL yang diminta tidak ditemukan
+  * 500 Internal Server Error - Server error
+* [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+---
+
 ## Common Gateway Interface (CGI)
 
 * Fitur pada web server untuk dapat menjalankan script/program pada server dan kemudian mengirimkan outputnya sebagai HTTP response
