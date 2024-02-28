@@ -1,5 +1,5 @@
 ---
-title: "PHP MVC Web - PHP Entry Point"
+title: "PHP MVC Web - Part 1 PHP Entry Point"
 date: 2024-02-21T15:50:00+07:00
 description: "Membuat web MVC menggunakan PHP. Bagian pertama, meng-_forward_ request ke script _entry point_ PHP."
 tags: ["code", "web", "php"]

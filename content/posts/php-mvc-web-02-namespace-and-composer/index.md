@@ -1,7 +1,7 @@
 ---
-title: "PHP MVC Web - Namespace & Composer"
+title: "PHP MVC Web - Part 2 Namespace & Composer"
 date: "2024-02-22T15:46:00+07:00"
-description: "Inisialisasi composer pada project PHP dan menggunakan namespace untuk struktur project"
+description: "PHP MVC Web Part 2 Inisialisasi composer pada project PHP dan menggunakan namespace untuk struktur project"
 tags: ["code", "web", "php"]
 series: ["php-web-mvc"]
 series_order: 2
